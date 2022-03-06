@@ -14,7 +14,7 @@
         <title>Life of SA</title>
     </head>
     <body>
-        <bodyh>
+        <bodyh class="w3-container ">
 
             <div class="w3-top">
                 <div class="w3-white w3-xlarge" style="max-width:1200px;margin:auto">
@@ -23,34 +23,20 @@
                     <div class="w3-center w3-padding-16">My Portfolio</div>
                 </div>
             </div>
-            <!-- !PAGE CONTENT! -->
-            <div class="w3-main w3-content w3-padding" style="max-width:1200px;margin-top:100px">
+            <!-- About Section -->
+            <div class="w3-row w3-padding-64" id="about">
+                <div class="w3-col m6 w3-padding-large w3-hide-small">
+                <img src="/picture/sajah.jpg" class="w3-round w3-image w3-opacity-min" alt="Table Setting" width="600" height="750">
+                </div>
 
-                <!-- First Photo Grid-->
-                <div class="w3-row-padding w3-padding-16 w3-center" id="food">
-                <div class="w3-quarter">
-                    <img src="/picture/sajah.jpg" alt="Sandwich" style="width:100%">
-                    <h3>About me sajah!</h3>
-                    <p>Hello! My name is Thitiporn but you can called me "sajah".</p>
-                </div>
-                <div class="w3-quarter">
-                    <img src="/picture/.jpg" alt="Steak" style="width:100%">
-                    <h3>Education</h3>
-                    <p>Currently , I'm a University student at Thammasat (Year3). </p>
-                </div>
-                <div class="w3-quarter">
-                    <img src="/picture/se.jpg" alt="Cherries" style="width:100%">
-                    <h3>Skills</h3>
-                    <p>Skill in software Engineering?</p>
-                    <p>Coding , FrontEnd</p>
-                </div>
-                <div class="w3-quarter">
-                    <img src="/picture/san.jpg" alt="Pasta and Wine" style="width:100%">
-                    <h3>Actitvity</h3>
-                    <p>Lifestyle , University Activity , Enjoy </p>
-                </div>
+                <div class="w3-col m6 w3-padding-large">
+                <h1 class="w3-center">About Thitiporn</h1><br>
+                <h5 class="w3-center">___since 2001___</h5>
+                <p class="w3-large">My name is thitiporn tangkantitham. I'm a  software engineering student at Thammasat University (year3), who enjoy and open mind to learn new thing.</p>
+                <p class="w3-large w3-text-grey w3-hide-medium"></p>
                 </div>
             </div>
+            
 
             <div class="w3-panel w3-sand w3-center ">
                 <span style="font-size:150px;line-height:0.6em;opacity:0.2">❝</span>
@@ -64,7 +50,7 @@
 
 
         <div class="w3-center">
-            <h1><em>More Details<em></h1>
+            <h1 ><em>More Details<em></h1>
 
             <a href="/posts/create" class="bg-blue-500">Add Post</a>
             @foreach ($posts as $post)
