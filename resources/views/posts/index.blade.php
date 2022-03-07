@@ -32,7 +32,7 @@
                 <div class="w3-col m6 w3-padding-large">
                 <h1 class="w3-center">About Thitiporn</h1><br>
                 <h5 class="w3-center">___since 2001___</h5>
-                <p class="w3-large">My name is thitiporn tangkantitham. I'm a  software engineering student at Thammasat University (year3), who enjoy and open mind to learn new thing.</p>
+                <p class="w3-large">My name is thitiporn tangkantitham. I'm a  software engineering student at Thammasat University (year3), who enjoy and open mind to learn new thing.I have many experance in software projects such as be a Front-end Developer, Make a Document etc.</p>
                 <p class="w3-large w3-text-grey w3-hide-medium"></p>
                 </div>
             </div>
