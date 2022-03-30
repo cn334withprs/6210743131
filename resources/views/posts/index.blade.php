@@ -40,7 +40,7 @@
 
             <div class="w3-panel w3-sand w3-center ">
                 <span style="font-size:150px;line-height:0.6em;opacity:0.2">❝</span>
-                <p class="w3-xlarge" style="margin-top:-40px"><i>La patience vient à bout de tout. - Harry Bernrd</i></p>
+                <p class="w3-xlarge" style="margin-top:-40px"><i>La patience vient à bout de tout. - Harry Bernr</i></p>
             </div>
 
             
